@@ -1,6 +1,7 @@
 # Expected Contributions:-
 * A COBOL program that performs a significant task.
 * Corresponding JCL file of the COBOL program.
+* Improvements to existing source codes like bug fixes and adding comments.
 
 # Guildlines for contribution:-
 * Please check before making a contribution so that programs are not repeated.
